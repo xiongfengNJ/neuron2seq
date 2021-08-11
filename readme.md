@@ -30,4 +30,4 @@ Due to the github policy, large file exceeding 100M can not be submmit. So we pr
 
 See figure below:
 
-![image-20210810222026981](.\readme.assets\image-20210810222026981.png)
+![image-20210810222026981](./readme.assets/image-20210810222026981.png)
