@@ -1,5 +1,5 @@
 ###
-The http://139.155.28.154:8500/ server failed temporarily, we are reparing now, please wait for a while.
+The 139.155.28.154 server failed temporarily, we are reparing now, please wait for a while.
 ###
 
 ### Notes:
