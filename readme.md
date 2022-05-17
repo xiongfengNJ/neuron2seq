@@ -30,7 +30,7 @@ The 139.155.28.154 server failed temporarily, we are reparing now, please wait f
 
 #### Large file
 
-Due to the github policy, large file exceeding 100M can not be submmit. So we provide there files in our local server, please go to http://139.155.28.154:8500/, download files you may need, and place them in proper directories.
+Due to the github policy, large file exceeding 100M can not be submmit. So we provide there files in our local server, please go to http://101.43.104.173:8500/, download files you may need, and place them in proper directories.
 
 See figure below:
 
