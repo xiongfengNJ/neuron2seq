@@ -1,7 +1,3 @@
-###
-The 139.155.28.154 server failed temporarily, we are reparing now, please wait for a while.
-###
-
 ### Notes:
 
 #### Contents in this repository : 
